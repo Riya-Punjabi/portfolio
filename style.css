@@ -492,7 +492,7 @@ header .navbar ul li a:hover
     }
     .skills .skill-section .skills-container .skill-img {
         width: 100%;
-       gap: 10px;
+       gap: 0px;
     }
     
     .contact .row form{

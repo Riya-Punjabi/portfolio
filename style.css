@@ -297,7 +297,7 @@ header .navbar ul li a:hover
 {
     display: block;
     height: 180px;
-   
+    padding: 80px;
 }
 
 .skill-name

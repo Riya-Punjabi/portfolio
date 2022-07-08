@@ -490,7 +490,7 @@ header .navbar ul li a:hover
     .about .row .counter .box{
         width: 100%;
     }
-    .skills .skill-section .skills-container .skill-img {
+    .skills .skill-section .skills-container  {
         width: 20%;
        gap: 0px;
     }

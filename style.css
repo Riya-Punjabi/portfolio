@@ -297,7 +297,7 @@ header .navbar ul li a:hover
 {
     display: block;
     height: 180px;
-    padding: 150px;
+    padding: 80px;
 }
 
 .skill-name
@@ -490,9 +490,9 @@ header .navbar ul li a:hover
     .about .row .counter .box{
         width: 100%;
     }
-    .skills .skill-section .skills-container {
+    .skills .skill-section .skills-container .skill-img {
         width: 100%;
-       
+       gap: 10px;
     }
     
     .contact .row form{

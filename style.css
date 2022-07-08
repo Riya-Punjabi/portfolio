@@ -488,7 +488,7 @@ header .navbar ul li a:hover
     .about .row .counter .box{
         width: 100%;
     }
-    .skills .skill-section .skills-container{
+    .skills .skill-section .skills-container ,.skill-card{
         width: 100%;
     }
     

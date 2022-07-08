@@ -489,7 +489,7 @@ header .navbar ul li a:hover
         width: 100%;
     }
     .skills .skill-section .skills-container ,.skill-card{
-        width: 80%;
+        width: 50%;
     }
     
     .contact .row form{

@@ -491,7 +491,7 @@ header .navbar ul li a:hover
         width: 100%;
     }
     .skills .skill-section .skills-container .skill-img {
-        width: 100%;
+        width: 55%;
        gap: 0px;
     }
     

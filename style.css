@@ -490,9 +490,9 @@ header .navbar ul li a:hover
     .about .row .counter .box{
         width: 100%;
     }
-    .skills .skill-section .skills-container ,.skill-card{
-        width: 50%;
-        padding:30rem;
+    .skills .skill-section .skills-container .skill-card{
+        width: 100%;
+       
     }
     
     .contact .row form{
